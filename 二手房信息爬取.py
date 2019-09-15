@@ -1,4 +1,6 @@
 #从www.szhome.com上抓取二手房信息
+#2019年9月15日
+#Author：潘学林
 
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
